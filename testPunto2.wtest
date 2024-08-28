@@ -1,6 +1,6 @@
 import empleados.*
 
-test "Qué hacen los empleados con lo que cobran" {
+test "punto2: Qué hacen los empleados con lo que cobran" {
 	
   baigorria.vender(500)
   galvan.sueldo(20000)

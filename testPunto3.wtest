@@ -1,6 +1,6 @@
 import empleados.*
 
-test "punto1: Finanzas de  galvan" {
+test "punto3: Finanzas de  galvan" {
 
    assert.equals(0, galvan.deuda()) 	
    assert.equals(0, galvan.dinero()) 	
